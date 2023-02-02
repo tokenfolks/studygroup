@@ -17,9 +17,15 @@ We'll use git to update this repo collaboratively. You can edit articles in Gith
 Note: there are other ways to collab on this (eg. Obsidian Sync). We prefer git because it tracks the full history, not just the latest update; pricing, etc..
 
 # Start here
-
 See introductory videos in [[Resources]].
 
 Consult the [Token Analysis Aid](Token%20Analysis%20Aid.md) for guidance as you analyse the economics of a certain project.c
+
+# Notes about Obsidian
+There are plenty of videos and articles that explain features and demo the use of obsidian in various styles of note taking.
+
+Here's a good walkthrough: https://www.youtube.com/watch?v=QgbLb6QCK88
+
+Obsidian has hundreds of community plugins to extend its functionality. Find them in `Settings -> Community Plugins -> Browse`.
 
 
