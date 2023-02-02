@@ -1,0 +1,4 @@
+# Looks like the internal workspace settings for obsidian
+# Different people may have different settings
+# We ignore this to avoid conflicts
+.obsidian
