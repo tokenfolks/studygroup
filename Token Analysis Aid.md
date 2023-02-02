@@ -2,8 +2,11 @@ This is a template to guide one in the process of understanding and analysing th
 
 ## Questions to guide the analysis
 
-- What is the token utility?
-- ....
+-   What is the Token Utility?
+-   What drives demand?
+-   What is the value creation?
+-   How the protocol captures/extracts value?
+-   What is the business model?
 
 
 ## Inspiration for the analysis process
