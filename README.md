@@ -16,10 +16,10 @@ We'll use git to update this repo collaboratively. You can edit articles in Gith
 
 Note: there are other ways to collab on this (eg. Obsidian Sync). We prefer git because it tracks the full history, not just the latest update; pricing, etc..
 
-# Place of the token people
+# Start here
 
-Please consult the [Token Analysis Aid](Token%20Analysis%20Aid.md).
+See introductory videos in [[Resources]].
 
-Also see the [Resources](Resources.md)
+Consult the [Token Analysis Aid](Token%20Analysis%20Aid.md) for guidance as you analyse the economics of a certain project.c
 
 
