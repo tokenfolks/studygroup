@@ -2,10 +2,23 @@ This is a template to guide one in the process of understanding and analysing th
 
 ## Questions to guide the analysis
 
+Below are some questions to ask yourself when looking at a certain project in the crypto space.
+
 -   What is the Token Utility?
+    _try to elaborate on: token used for payment? for staking? for voting? etc.._
+
 -   What drives demand?
+    _eg: need token to pay for services? uniqueness? rewards? etc.._
+
+-   What is the token supply?
+    _eg: is there a fixed supply? how are tokens issued? how is the circulating amount controlled? etc.._
+
 -   What is the value creation?
+    _eg: what's this protocol useful for? who does it bring value to? etc.._
+
 -   How the protocol captures/extracts value?
+    _eg: any form of revenue sharing? portion of a fee? etc.._
+
 -   What is the business model?
 
 
