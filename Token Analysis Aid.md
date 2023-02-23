@@ -1,3 +1,7 @@
+---
+tags: analysis
+---
+
 This is a template to guide one in the process of understanding and analysing the economics of a token or a crypto project.
 
 ## Questions to guide the analysis
